@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+{
+    int mark;
+    printf("enter mark");
+    scanf("%d",&mark);
+    if(mark>=30) ? print("stdunt are passed") : printf("stundent are not passed");
+    return 0 ;
+}
